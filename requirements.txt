@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-cloud-bigquery
+ortools
+plotly
+google-cloud-aiplatform
+natsort
+google-auth
